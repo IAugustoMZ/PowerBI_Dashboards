@@ -67,3 +67,13 @@ Como forma de praticar meus conhecimentos em Business Intelligence, esse reposit
 <img src="./capitulo05/lane_plot.png">
 
 <img src="./capitulo05/sales_map.png">
+
+<hr>
+
+### **Dashboard de Análise de Dados de Recursos Humanos**
+- visualizações de dados
+- cálculos de expressões DAX
+- criação de tabelas de medidas
+- criação de colunas calculadas condicionais
+
+<img src="./capitulo06/rh.png">
